@@ -1,0 +1,84 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+
+  .navbar {
+    padding: 0px;
+  }
+
+  .navbar-text {
+    color: white;
+  }
+
+  img {
+    transform: scaleX(-1);
+  }
+
+/* Butonlara tıklandıktan sonra takılı kalan outline'ı kaldırıyor. */
+.btn:focus {   
+    outline: none;
+    box-shadow: none;
+  }
+
+  .webcam-card {
+    width: 35rem;
+    margin-top: 10px;
+    margin-left: 120px;
+    background-color: #fff0f5;
+    border-radius: 20px;
+  }
+
+  .webcam-mrg {
+    margin-top: 50px;
+  }
+
+  .card-img-mrg {
+    margin-bottom: 20px;
+  }
+
+  .alert-box {
+    margin-top: 300px;
+  }
+
+  .card-title {
+    color: red;
+    padding-top:10px;
+    padding-bottom: 5px;
+    color: #fff0f5;
+  }
+
+  .card-deck-style {
+    margin-top: 15px;
+  }
+
+  .card-style {
+    border: 0px;
+  }
+
+  .card-img-style {
+    border-radius: 20px;
+  }
+
+  .header-mrg {
+    margin-top: 20px;
+  }
+
+  .live-header {
+    width:250px;
+    background-color: #de3933;
+  }
+
+  .card-body {
+    margin-top: -30px;
+  }
+
+  .btm-header {
+    width: 450px;
+    background-color: #343A40;
+    color: white;
+  }
+
+  .button-color {
+    background-color: #343A40;
+  }
+ 
